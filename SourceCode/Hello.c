@@ -8,6 +8,10 @@ void hello(){
 	printf("Hello World!");
 }
 
+void emptyUselessStub{
+
+}
+
 void doAnything(){
 	printf("Anything");
 	printf("Anything");
