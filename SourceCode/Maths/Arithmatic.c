@@ -17,3 +17,7 @@ int div(int a, int b){
 int fact(int a){
 	//Coming from Testing branch
 }
+
+int mod(int a, int b){
+	return a%b;
+}
