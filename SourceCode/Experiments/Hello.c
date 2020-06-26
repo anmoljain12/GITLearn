@@ -22,3 +22,7 @@ void doAnything(){
 int main(){
 	hello();
 }
+
+void calculate(){
+	//Code coming from Testing branch
+}
