@@ -8,7 +8,7 @@ void hello(){
 	printf("Hello World!");
 }
 
-void emptyUselessStub{
+void emptyFunctionStub{
 
 }
 
