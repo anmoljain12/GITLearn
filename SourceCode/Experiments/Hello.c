@@ -9,7 +9,8 @@ void hello(){
 }
 
 void emptyFunctionStub{
-
+	//something random from remote
+	//something random from remote
 }
 
 void doAnything(){
